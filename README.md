@@ -1,16 +1,13 @@
-### Hi there 👋
+### bem vindo ao meu perfil 💙
 
-<!--
-**nicolasx20/nicolasx20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é NIcolas Ribeiro
 
-Here are some ideas to get you started:
+- Estou na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em javascript
+- Espaço para guardar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### entre em contato comigo📧
+
+  nicolas.ribeiro.ribas@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/neyney-neymar-neymar-jr-neymar-da-silva-santos-j%C3%BAnior-footballer-gif-17799595)
